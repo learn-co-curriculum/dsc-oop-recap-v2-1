@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section you learend
+In this section you learned about Object Oriented Programming (OOP) as a foundational practice for software development and programming.
 
 ## Objectives
 
@@ -17,7 +17,7 @@ You will be able to:
 
 ## OOP Overview
 
-In this section you learned all about Object Orientated Programming and how to define classes. Like functions, using classes in your programming can save you a lot of time and repetative tasks. Classes go further then functions in allowing you to also persist data. After all, class methods are fairly analagous to functions, while attributes add additional functionality, acting as data storage containers. Moreover, classes have additional flexability through inheritence, allowing you to define various levels of abstraction.
+In this section you learned all about Object Orientated Programming and how to define classes. Like functions, using classes in your programming can save you a lot of time and repetitive tasks. Classes go further then functions in allowing you to also persist data. After all, class methods are fairly analogous to functions, while attributes add additional functionality, acting as data storage containers. Moreover, classes have additional flexibility through inheritance, allowing you to define various levels of abstraction.
 
 ## Class Structures
 
@@ -36,7 +36,7 @@ class Class_name:
         print('This is a pretty useless second method.')
 ```
 
-And from there, you learned more about `self` and the `__init__` method. Recall that the `__init__` method allows you to specify required and default parameters for you class instances. Furthermore, `self` then allows you to reference object attributes within class definitions. So for example, you might require a class to have a name and a number when instatiated:  
+And from there, you learned more about `self` and the `__init__` method. Recall that the `__init__` method allows you to specify required and default parameters for you class instances. Furthermore, `self` then allows you to reference object attributes within class definitions. So for example, you might require a class to have a name and a number when instantiated:  
 
 ```python
 class Class_name:
